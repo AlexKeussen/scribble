@@ -12,20 +12,20 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  freezed_annotation: ^2.4.1
+  freezed_annotation: ^3.0.0
   perfect_freehand: ^2.3.2
-  simpli: ^0.1.1
+  simpli: ^0.1.1+2
   value_notifier_tools: ^0.1.2
 
 dev_dependencies:
-  build_runner: ^2.4.9
+  build_runner: ^2.4.15
   flutter_test:
     sdk: flutter
-  freezed: ^2.4.7
-  json_serializable: ^6.7.1
+  freezed: ^3.0.4
+  json_serializable: ^6.9.4
   lintervention: ^0.1.1
   melos: ">=5.2.1 <7.0.0"
-  mocktail: ^1.0.3
+  mocktail: ^1.0.4
 
 flutter:
   uses-material-design: true
